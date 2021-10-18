@@ -1,6 +1,6 @@
 Local Library
 
-A library application that allows the user to maintain catalog of books, authors, genres, and instances of books. Built using Express, pug template, bootstrap, and deployed on Heroku.
+A library application that allows the users to maintain a catalog of books, authors, genres, and instances of books - with options for adding, updating, and deleting entries. Built using Express, pug template, bootstrap, and deployed on Heroku.
 
 ============================================================================
 
